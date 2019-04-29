@@ -1,3 +1,5 @@
+# [MERGED](https://github.com/mattmight/calculendar/pull/1)
+
 # Calculendar
 
 A command line tool for computing availability.
